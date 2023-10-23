@@ -1,4 +1,4 @@
-# Beyond Open Source API
+# Beyond API
 
 Welcome to the backend of the Beyond Platform! This platform aims to bring together individuals passionate about contributing to projects such as Local Blood Drives, Scoping Climate Models, Black Lives Matter Rally or any other social good projects that target sustainable development goals. It is designed in the spirit of open-source software, allowing for collaborative contributions.
 
