@@ -1,6 +1,6 @@
 # Beyond API
 
-Welcome to the backend of the Beyond Platform! This platform aims to bring together individuals passionate about contributing to projects such as Local Blood Drives, Scoping Climate Models, Black Lives Matter Rallies or any other social good projects that target sustainable development goals. It is designed in the spirit of open-source software, allowing for collaborative contributions.
+Welcome to the backend of the Beyond Platform! This platform aims to bring together individuals passionate about contributing to projects such as Local Blood Drives, Climate Modeling, Black Lives Matter Rallies or any other social good projects that target sustainable development goals. It is designed in the spirit of open-source software, allowing for collaborative contributions.
 
 
 ## Features
